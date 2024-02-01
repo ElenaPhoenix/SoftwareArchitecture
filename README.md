@@ -9,3 +9,5 @@
 
 
 https://www.cybermedian.com/ru/a-comprehensive-guide-to-uml-class-diagram/
+
+https://habr.com/ru/companies/productivity_inside/articles/505430/
