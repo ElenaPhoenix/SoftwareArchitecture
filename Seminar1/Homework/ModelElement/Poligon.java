@@ -12,9 +12,7 @@ public class Poligon {
     public List<Point3D> getPoints() {
         return points;
     }
-
+    
     public Poligon() {
-
     }
-
 }

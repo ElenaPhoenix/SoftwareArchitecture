@@ -25,7 +25,6 @@ public class ModelStore implements IModelChanger {
         for (IModelChangedObserver observer : observers) {
             observer.applyUpdateModel();
         }
-
     }
 
     @Override

@@ -22,5 +22,4 @@ public class PoligonalModel {
         this.poligons = poligons;
         this.textures = textures;
     }
-
 }
