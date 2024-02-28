@@ -13,3 +13,7 @@ https://www.cybermedian.com/ru/a-comprehensive-guide-to-uml-class-diagram/
 https://habr.com/ru/companies/productivity_inside/articles/505430/
 
 https://www.dbdesigner.net/
+
+https://online.visual-paradigm.com/drive/#infoart:proj=0&dashboard
+https://www.figma.com/
+https://app.diagrams.net/.
